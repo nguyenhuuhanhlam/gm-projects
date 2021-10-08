@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":0,},
     {"id":{"name":"CropClasses","path":"scripts/CropClasses/CropClasses.yy",},"order":0,},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":0,},
   ],

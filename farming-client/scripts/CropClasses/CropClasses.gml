@@ -1,7 +1,7 @@
 function CropItem () constructor
 {
 	name = ""
-	spr = -1
-	duration = ""
+	spr_name = -1
+	duration = -1
 	cost = -1
 }
